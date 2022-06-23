@@ -1,0 +1,10 @@
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\bin\Debug\0222.exe.config
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\bin\Debug\0222.exe
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\bin\Debug\0222.pdb
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\obj\Debug\0222.csproj.AssemblyReference.cache
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\obj\Debug\_0222.Form1.resources
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\obj\Debug\_0222.Properties.Resources.resources
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\obj\Debug\0222.csproj.GenerateResource.cache
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\obj\Debug\0222.csproj.CoreCompileInputs.cache
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\obj\Debug\0222.exe
+C:\Users\tropo\Desktop\22.01_oaip-master\0222\obj\Debug\0222.pdb
